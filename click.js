@@ -20,7 +20,7 @@ dcho.addEventListener('click', () => {
     }
     if(tmp === 5){
         dcho.style.display = "none"
-        h4t.textContent = "SUC VAT"
+        h4t.textContent = "Tại sao lại không lì xì?"
 
     }
     if(temp >= 5){
@@ -39,5 +39,5 @@ dcho.addEventListener('click', () => {
     temp +=1;
 });
 cho.addEventListener('click', () => {
-    h4t.textContent = "TK 03649237738 MB"
+    h4t.textContent = "TK 4110397169 BIDV"
 })
